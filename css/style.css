@@ -65,6 +65,7 @@ nav ul li a:hover::after{
     width: 100%;
 }
 .image img{
+    position: fixed;
     display: block;
     width: 100%;
     height: auto;
